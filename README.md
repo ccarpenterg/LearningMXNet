@@ -12,6 +12,8 @@ In the second notebook we train an artificial neural network to classify handwri
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" title="MNIST" width="375" />
 
+notebook: ([nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/LearningMXNet/blob/master/02_getting_started_with_mxnet.ipynb)) ([github](https://github.com/ccarpenterg/LearningMXNet/blob/master/02_getting_started_with_mxnet.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningMXNet/blob/master/02_getting_started_with_mxnet.ipynb))
+
 ### 3) Introduction to Convolutional Neural Networks and Deep Learning
 
 In this notebook we introduce the convolutional neural network, one of the most exciting developments in computer vision of the last decade. Convolutional neural networks, convnets or CNNs for short, are deep learning neural networks that automatically extract features from images which then are fed to a dense classifier:
