@@ -22,3 +22,17 @@ In this notebook we introduce the convolutional neural network, one of the most 
 title="CNN" width="500" />
 
 Using MXNet's gluon package we design a convnet from zero and train on the MNIST dataset.
+
+### 4) Plotting Accuracy and Loss for CNNs with MXNet
+
+Part of the work that involves designing and training deep neural networks, consists in plotting the various parameters and metrics generated in the process of training. In this notebook we will design and train our Convnet from scratch, and will plot the training vs. test accuracy, and the training vs. test loss.
+
+These are very important metrics, since they will show us how well is doing our neural network.
+
+### 5) CIFAR-10: A More Challenging Dataset for CNNs
+
+So far we have trained our neural networks on the MNIST dataset, and have achieved high acurracy rates for both the training and test datasets. Now we train our Convnet on the CIFAR-10 dataset, which contains 60,000 images of 32x32 pixels in color (3 channels) divided in 10 classes (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck).
+
+<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/3649/media/cifar-10.png" title="CIFAR-10" width="295" />
+
+As we'll see in this notebook, the CIFAR-10 dataset will prove particularly challenging for our very basic Convnet, and from this point we'll start exploring the world of pretrained neural networks.
