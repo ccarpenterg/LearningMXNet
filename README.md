@@ -44,3 +44,7 @@ So far we have trained our neural networks on the MNIST dataset, and have achiev
 As we'll see in this notebook, the CIFAR-10 dataset will prove particularly challenging for our very basic Convnet, and from this point we'll start exploring the world of pretrained neural networks.
 
 notebook: ([nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/LearningMXNet/blob/master/05_cifar_10_challenging_convnets.ipynb)) ([github](https://github.com/ccarpenterg/LearningMXNet/blob/master/05_cifar_10_challenging_convnets.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningMXNet/blob/master/05_cifar_10_challenging_convnets.ipynb))
+
+### 6) Pretrained Convolutional Neural Networks (Transfer Learning)
+
+notebook: ([nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/LearningMXNet/blob/master/06_pretrained_convnets_and_transfer_learning.ipynb)) ([github](https://github.com/ccarpenterg/LearningMXNet/blob/master/06_pretrained_convnets_and_transfer_learning.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningMXNet/blob/master/06_pretrained_convnets_and_transfer_learning.ipynb))
